@@ -12,4 +12,5 @@ A previsão de preços de ações é uma tarefa desafiadora, mas crucial, para i
 Os seguintes algoritmos de Machine Learning são explorados neste repositório:
 
 - Regressão Linear
-- Arima
+- LLM
+- - Arima
